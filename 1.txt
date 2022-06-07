@@ -11,3 +11,4 @@ from github 2
 
 from local 1
 form local 2
+from local 3
